@@ -1,0 +1,9 @@
+# Simulation artifacts
+simv
+*.vcd
+*.vvp
+
+# Editor / OS
+*~
+*.swp
+.vs/
